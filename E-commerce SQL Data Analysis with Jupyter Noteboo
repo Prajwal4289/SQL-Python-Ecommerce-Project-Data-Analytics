@@ -1,0 +1,51 @@
+📊 E-commerce SQL Data Analysis with Jupyter Notebook
+This project demonstrates how to connect a Jupyter Notebook to a MySQL database to perform end-to-end data analysis using SQL queries, ranging from basic to advanced levels. The data is from an e-commerce platform and includes customers, orders, products, sellers, and payments.
+
+📌 Project Highlights
+🔗 Connected to MySQL database using mysql.connector.
+
+🧾 Executed SQL queries within Python using cursor.execute().
+
+📉 Performed analysis across different business dimensions:
+
+Customer distribution by city and state
+
+Monthly order trends
+
+Top product categories by revenue
+
+Payment method breakdowns
+
+Revenue contribution by sellers
+
+Moving averages and cumulative metrics
+
+Customer retention and top spender insights
+
+📊 Visualized key results using Matplotlib and Seaborn.
+
+🧮 Used advanced SQL techniques like:
+
+JOIN, GROUP BY, DENSE_RANK, WINDOW FUNCTIONS, CTEs, and more.
+
+🧰 Technologies Used
+Python: pandas, matplotlib, seaborn, mysql-connector-python
+
+SQL: MySQL (local instance)
+
+Tools: Jupyter Notebook
+
+📈 Key SQL Topics Covered
+Data aggregation with COUNT(), SUM(), AVG()
+
+Date functions and filtering
+
+JOIN operations across multiple tables
+
+Subqueries and Common Table Expressions (CTEs)
+
+Window functions: ROW_NUMBER(), DENSE_RANK(), MOVING AVERAGE, CUMULATIVE SUM
+
+Year-over-Year growth analysis
+
+Customer retention tracking
